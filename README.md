@@ -1,8 +1,3 @@
-To create a README, I'll first take a look at your final code. I’ll create a comprehensive README based on the code and processes in your assignment. I'll review your code and provide the README here.
-
-Here’s a draft of the README based on the final code you provided. This README includes sections for setup, model explanations, usage, and more.
-
----
 
 # Multimodal Hateful Meme Classification
 
